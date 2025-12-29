@@ -1,0 +1,39 @@
+[[main]]
+    identifier = "aboutme"
+    name = "About Me"
+    url = "/aboutme/"
+    weight = 1
+    [main.params]
+        icon = "user"
+
+[[main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+    [main.params]
+        icon = "home"
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/hgomez"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "twitter"
+name = "X"
+url = "https://x.com/hgomez"
+
+[social.params]
+icon = "brand-twitter"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://fr.linkedin.com/in/gomezhe"
+
+[social.params]
+icon = "brand-linkedin"
